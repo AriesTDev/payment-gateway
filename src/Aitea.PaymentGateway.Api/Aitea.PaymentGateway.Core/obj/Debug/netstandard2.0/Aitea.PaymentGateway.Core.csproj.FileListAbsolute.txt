@@ -1,0 +1,9 @@
+C:\PROJECT\payment-gateway\src\Aitea.PaymentGateway.Api\Aitea.PaymentGateway.Core\bin\Debug\netstandard2.0\Aitea.PaymentGateway.Core.deps.json
+C:\PROJECT\payment-gateway\src\Aitea.PaymentGateway.Api\Aitea.PaymentGateway.Core\bin\Debug\netstandard2.0\Aitea.PaymentGateway.Core.dll
+C:\PROJECT\payment-gateway\src\Aitea.PaymentGateway.Api\Aitea.PaymentGateway.Core\bin\Debug\netstandard2.0\Aitea.PaymentGateway.Core.pdb
+C:\PROJECT\payment-gateway\src\Aitea.PaymentGateway.Api\Aitea.PaymentGateway.Core\obj\Debug\netstandard2.0\Aitea.PaymentGateway.Core.AssemblyInfoInputs.cache
+C:\PROJECT\payment-gateway\src\Aitea.PaymentGateway.Api\Aitea.PaymentGateway.Core\obj\Debug\netstandard2.0\Aitea.PaymentGateway.Core.AssemblyInfo.cs
+C:\PROJECT\payment-gateway\src\Aitea.PaymentGateway.Api\Aitea.PaymentGateway.Core\obj\Debug\netstandard2.0\Aitea.PaymentGateway.Core.csproj.CoreCompileInputs.cache
+C:\PROJECT\payment-gateway\src\Aitea.PaymentGateway.Api\Aitea.PaymentGateway.Core\obj\Debug\netstandard2.0\Aitea.PaymentGateway.Core.dll
+C:\PROJECT\payment-gateway\src\Aitea.PaymentGateway.Api\Aitea.PaymentGateway.Core\obj\Debug\netstandard2.0\Aitea.PaymentGateway.Core.pdb
+C:\PROJECT\payment-gateway\src\Aitea.PaymentGateway.Api\Aitea.PaymentGateway.Core\obj\Debug\netstandard2.0\Aitea.PaymentGateway.Core.csprojAssemblyReference.cache

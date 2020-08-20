@@ -1,0 +1,28 @@
+API DOC
+https://sdk.qfapi.com/#introduction
+
+===========================================
+BACKOFFICE ACCESS:
+https://sh-sg.qfapi.com/#/main/transctl
+Login: 848239157
+pw: 239157
+=======================================
+
+
+Test Account1		environment	https://test-openapi-sg.qfapi.com				
+		code	B44B146815854DB4A41AE64C26680A81				
+		key	7124AB3E9D0740BE957AA03064897C2C				
+		mchid	Jx2VxUL8JY			
+
+Note: To test Wechat Pay offline (MPM/CPM) please use below mchid with same code-key				
+		mchid	8KGxKuanKO				
+
+
+=====================================
+NGROK command to expose localserver
+ngrok authtoken "1dpjVXvVmx7Zk4i1FxiBluOqrpk_2iFb7iqqiWYCqUtmq51bV"
+ngrok http https://localhost:44321 -host-header="localhost:44321"
+
+Inspect All HTTP Requests Logs
+http://localhost:4040/inspect/http
+====================================================================

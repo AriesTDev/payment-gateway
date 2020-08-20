@@ -1,0 +1,70 @@
+2020-06-25T14:27:10.0718560+08:00 [ERR] (AutoWrapper.AutoWrapperMiddleware) [500]: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+InquirePaymentResponse -> PaymentResponseToClient
+Aitea.PaymentGateway.DTO.Response.InquirePaymentResponse -> Aitea.PaymentGateway.DTO.Response.PaymentResponseToClient
+AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+InquirePaymentResponse -> PaymentResponseToClient
+Aitea.PaymentGateway.DTO.Response.InquirePaymentResponse -> Aitea.PaymentGateway.DTO.Response.PaymentResponseToClient
+   at lambda_method(Closure , InquirePaymentResponse , PaymentResponseToClient , ResolutionContext )
+   at lambda_method(Closure , Object , Object , ResolutionContext )
+   at Aitea.PaymentGateway.API.v1.PaymentController.Inquiry(ClientInquiryRequest inquiryRequest) in C:\PROJECT\payment-gateway\src\Aitea.PaymentGateway.Api\Aitea.PaymentGateway\Aitea.PaymentGateway\API\v1\PaymentController.cs:line 187
+   at lambda_method(Closure , Object )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutorAwaitable.Awaiter.GetResult()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at AspNetCoreRateLimit.RateLimitMiddleware`1.Invoke(HttpContext context)
+   at AutoWrapper.Base.WrapperBase.InvokeAsyncBase(HttpContext context, AutoWrapperMembers awm)
+2020-06-25T15:06:40.2517551+08:00 [ERR] (AutoWrapper.AutoWrapperMiddleware) [422]: https://httpstatuses.com/422 : Unprocessable Entity
+Type    : https://httpstatuses.com/422
+Title   : Unprocessable Entity
+Status  : 422
+Detail  : Your request parameters didn't validate.
+Instance: /api/v1/Payment/Query
+
+2020-06-25T15:30:07.2252921+08:00 [ERR] (AutoWrapper.AutoWrapperMiddleware) [500]: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+CancelPaymentResponse -> PaymentResponseToClient
+Aitea.PaymentGateway.DTO.Response.CancelPaymentResponse -> Aitea.PaymentGateway.DTO.Response.PaymentResponseToClient
+AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+CancelPaymentResponse -> PaymentResponseToClient
+Aitea.PaymentGateway.DTO.Response.CancelPaymentResponse -> Aitea.PaymentGateway.DTO.Response.PaymentResponseToClient
+   at lambda_method(Closure , CancelPaymentResponse , PaymentResponseToClient , ResolutionContext )
+   at lambda_method(Closure , Object , Object , ResolutionContext )
+   at Aitea.PaymentGateway.API.v1.PaymentController.Refund(ClientCancelPaymentRequest paymentRequest) in C:\PROJECT\payment-gateway\src\Aitea.PaymentGateway.Api\Aitea.PaymentGateway\Aitea.PaymentGateway\API\v1\PaymentController.cs:line 137
+   at lambda_method(Closure , Object )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutorAwaitable.Awaiter.GetResult()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at AspNetCoreRateLimit.RateLimitMiddleware`1.Invoke(HttpContext context)
+   at AutoWrapper.Base.WrapperBase.InvokeAsyncBase(HttpContext context, AutoWrapperMembers awm)
+2020-06-25T15:45:19.6416997+08:00 [ERR] (AutoWrapper.AutoWrapperMiddleware) [422]: https://httpstatuses.com/422 : Unprocessable Entity
+Type    : https://httpstatuses.com/422
+Title   : Unprocessable Entity
+Status  : 422
+Detail  : Your request parameters didn't validate.
+Instance: /api/v1/Payment/Cancel
+

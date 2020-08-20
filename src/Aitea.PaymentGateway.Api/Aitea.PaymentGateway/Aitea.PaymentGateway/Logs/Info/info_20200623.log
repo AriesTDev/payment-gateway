@@ -1,0 +1,157 @@
+2020-06-23T15:27:31.2054223+08:00 [INF] (Aitea.PaymentGateway.Program) Starting web host
+2020-06-23T15:27:42.9776468+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:44321/   Responded with [404] in 718ms
+2020-06-23T15:27:57.5545233+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:28:11.8495396+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:28:25.9999174+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:28:40.2511822+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:28:54.7474618+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:44321/   Responded with [404] in 4ms
+2020-06-23T15:29:08.9239327+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:29:23.2748059+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:29:37.4769889+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:29:51.7447526+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:30:06.1107453+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:44321/   Responded with [404] in 7ms
+2020-06-23T15:30:20.3248450+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:30:34.5544914+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:30:48.7540642+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:31:02.9618270+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:31:17.4711098+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:44321/   Responded with [404] in 12ms
+2020-06-23T15:31:31.7027052+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:31:45.9046993+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:31:47.2127032+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: GET https localhost:44321/api/v1/Payment/1   Responded with [200] in 798ms
+2020-06-23T15:32:00.0544053+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:32:14.2121585+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:32:28.5828613+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:44321/   Responded with [404] in 3ms
+2020-06-23T15:32:42.7393137+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:32:56.9331944+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:33:11.1211318+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:33:25.3579064+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:33:39.7653792+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:44321/   Responded with [404] in 3ms
+2020-06-23T15:33:53.9098733+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:34:08.1283729+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:34:22.3208014+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:34:36.4741643+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:34:50.7911673+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:44321/   Responded with [404] in 3ms
+2020-06-23T15:35:04.9914796+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:35:19.1719428+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:35:33.4451785+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:35:47.6851594+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:36:02.1343392+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:44321/   Responded with [404] in 9ms
+2020-06-23T15:36:16.3167308+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:36:30.5159419+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:36:44.6916853+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:36:58.8871502+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:37:13.2944880+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:44321/   Responded with [404] in 3ms
+2020-06-23T15:37:27.4817342+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:37:41.6788024+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:37:55.8326204+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:38:10.0773697+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:38:24.4080200+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:44321/   Responded with [404] in 3ms
+2020-06-23T15:38:38.5836017+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:38:52.7455775+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:39:06.9067062+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:39:21.0511753+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:39:35.5045083+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:44321/   Responded with [404] in 2ms
+2020-06-23T15:39:49.6455370+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:40:03.8544390+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:40:18.0700555+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:40:32.2826170+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:40:46.6783754+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:44321/   Responded with [404] in 4ms
+2020-06-23T15:41:01.0059412+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:41:15.2785971+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:41:29.7603839+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:41:43.9513228+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:41:58.4317085+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:44321/   Responded with [404] in 3ms
+2020-06-23T15:42:12.8133560+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:42:27.0510534+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:42:45.4739961+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:43:02.3246591+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:44321/   Responded with [404] in 7ms
+2020-06-23T15:43:16.8250132+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:43:32.7266624+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:43:47.0925486+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:44:01.3604470+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:44:15.8348087+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:44321/   Responded with [404] in 2ms
+2020-06-23T15:44:30.0595715+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:44:44.3499712+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:44:58.7460549+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:45:13.0605924+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:45:27.4966150+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:44321/   Responded with [404] in 3ms
+2020-06-23T15:45:41.8290379+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:45:56.1668136+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:46:10.5429382+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:46:24.9326418+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:46:39.4857297+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:44321/   Responded with [404] in 2ms
+2020-06-23T15:46:53.7168428+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:47:08.0632044+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:47:22.3818978+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:47:36.6885216+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:47:51.0665425+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:44321/   Responded with [404] in 15ms
+2020-06-23T15:48:05.3315097+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:48:19.5987370+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:48:33.7723070+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:48:48.1075172+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:49:02.5114609+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:44321/   Responded with [404] in 6ms
+2020-06-23T15:49:16.6544753+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:49:30.8529563+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:49:45.0326722+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:49:59.2581676+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:50:13.6796568+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:44321/   Responded with [404] in 7ms
+2020-06-23T15:50:27.8360459+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:50:42.0113387+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:50:56.2435510+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:51:10.4576680+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:51:24.8056846+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:44321/   Responded with [404] in 4ms
+2020-06-23T15:51:39.0177531+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:51:53.1936294+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:52:07.3260376+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:52:21.5055302+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:52:35.8606699+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:44321/   Responded with [404] in 9ms
+2020-06-23T15:52:50.0554645+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:53:04.2685175+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:53:18.4126983+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:53:32.6029263+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:53:46.9244528+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:44321/   Responded with [404] in 2ms
+2020-06-23T15:54:01.0685269+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:54:15.3045722+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:54:29.4717328+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:54:43.6937467+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:54:58.0917907+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:44321/   Responded with [404] in 16ms
+2020-06-23T15:55:12.2471927+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:55:26.4344100+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:55:40.6327012+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:55:54.8871285+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:56:09.2911576+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:44321/   Responded with [404] in 3ms
+2020-06-23T15:56:23.6429295+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:56:37.8190449+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:56:52.0211301+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:57:06.2805908+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:57:20.5775448+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:44321/   Responded with [404] in 8ms
+2020-06-23T15:57:34.8196660+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:57:48.9995670+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:58:03.1601461+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:58:17.3311447+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:58:31.7512436+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:44321/   Responded with [404] in 2ms
+2020-06-23T15:58:45.9271711+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:59:00.1070877+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:59:14.2522676+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:59:28.4649973+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T15:59:42.9078469+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:44321/   Responded with [404] in 2ms
+2020-06-23T15:59:57.0606188+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T16:00:11.2324553+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T16:00:25.4082420+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T16:00:39.6606137+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T16:00:54.0480180+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:44321/   Responded with [404] in 6ms
+2020-06-23T16:01:08.2603006+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T16:01:22.4271080+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T16:01:36.5910902+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T16:01:50.8058599+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T16:02:05.1589228+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:44321/   Responded with [404] in 2ms
+2020-06-23T16:02:19.3404742+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T16:02:33.5565740+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T16:02:47.7489295+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T16:03:01.9090170+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T16:03:16.2498158+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:44321/   Responded with [404] in 1ms
+2020-06-23T16:03:30.4732536+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T16:03:44.6142351+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T16:03:58.8130950+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T16:04:12.9863659+08:00 [INF] (HealthChecks.UI.Core.Notifications.WebHookFailureNotifier) Notification is sent on same window time.
+2020-06-23T16:04:27.4595466+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:44321/   Responded with [404] in 1ms
