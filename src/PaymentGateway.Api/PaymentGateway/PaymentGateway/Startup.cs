@@ -11,6 +11,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using PaymentGateway.Infrastructure.Handlers;
 
 namespace PaymentGateway
 {
@@ -34,6 +35,8 @@ namespace PaymentGateway
             services.AddControllers()
                     .AddNewtonsoftJson(ops => { ops.SerializerSettings.NullValueHandling = Newtonsoft.Json.NullValueHandling.Ignore; })
                     .AddFluentValidation(fv => { fv.RunDefaultMvcValidationAfterFluentValidationExecutes = false; });
+
+            services.AddTransient<IHandlerManager, HandlerManager>();
 
             //Register Automapper
             services.AddAutoMapper(typeof(MappingProfileConfiguration));

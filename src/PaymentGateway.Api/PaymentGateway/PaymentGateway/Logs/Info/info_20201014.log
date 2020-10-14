@@ -1,1 +1,10 @@
 2020-10-14T13:02:29.4491928+08:00 [INF] (PaymentGateway.Program) Starting web host
+2020-10-14T17:33:46.6704498+08:00 [INF] (PaymentGateway.Program) Starting web host
+2020-10-14T18:26:45.8711969+08:00 [INF] (PaymentGateway.Program) Starting web host
+2020-10-14T18:27:19.9475858+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:44321/api/v1/Payment  {"amount":100,"currency":"CNY","paymentType":"61","transactionNumber":"TEST10001","goodsName":"string"} Responded with [500] in 1520ms
+2020-10-14T18:29:10.8199218+08:00 [INF] (PaymentGateway.Program) Starting web host
+2020-10-14T18:30:21.6031630+08:00 [INF] (Deposit.PG.Handler.Handlers.QFPayHandler) Hashing input: goods_name=string&mchid=Jx2VxUL8JY&out_trade_no=TEST1001&pay_type=&txamt=11000&txcurrcd=CNY&txdtm=2020-10-14 18:30:1971****************************2C, key: 71****************************2C
+2020-10-14T18:30:28.4294664+08:00 [INF] (PaymentGateway.Services.QfPayApiConnect) Post Form request. URL /trade/v1/payment, data: {"txamt":"11000","txcurrcd":"CNY","pay_type":null,"out_trade_no":"TEST1001","txdtm":"2020-10-14 18:30:19","goods_name":"string","mchid":"Jx2VxUL8JY"}
+2020-10-14T18:30:30.1842587+08:00 [INF] (PaymentGateway.Services.QfPayApiConnect) Post Form response: "{\"resperr\": \"\\u7b7e\\u540d\\u9519\\u8bef\", \"respcd\": \"1108\", \"respmsg\": \"\"}"
+2020-10-14T18:30:31.7900634+08:00 [INF] (Deposit.PG.Handler.Handlers.QFPayHandler) Response from QFPayApi Request Payment
+2020-10-14T18:30:34.5271734+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:44321/api/v1/Payment  {"amount":110,"currency":"CNY","paymentType":"61","transactionNumber":"TEST1001","goodsName":"string"} Responded with [200] in 50926ms
