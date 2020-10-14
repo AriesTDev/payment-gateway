@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZZcF9vXkPLU0mG0irPwwJ9I+FD4MMZvCr3/L38vzNUzkBJAXMkheR9Ah52LVcL4CzMwdC8azGGmsFQiDm9nEag==",
+  "success": true,
+  "projectFilePath": "D:\\AriesTDev\\payment-gateway\\src\\PaymentGateway.Api\\PaymentGateway.Core\\PaymentGateway.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AriesTotle\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\AriesTotle\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\AriesTotle\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

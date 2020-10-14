@@ -1,0 +1,89 @@
+2020-06-26T07:55:30.6930257+08:00 [INF] (PaymentGateway.Program) Starting web host
+2020-06-26T08:05:37.1612691+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:44321/api/v1/AiteaNotify  {"status":"1","pay_type":"801114","sysdtm":"2020-06-25 21:05:35","paydtm":"2020-06-25 21:06:50","goods_name":"","txcurrcd":"MYR","txdtm":"2020-06-25 21:05:33","mchid":"Jx2VxUL8JY","txamt":"110","out_trade_no":"TEST1008","syssn":"20200625141100020000888828","cancel":"0","respcd":"0000","goods_info":"","notify_type":"payment","chnlsn":"274142371","cardcd":""} Responded with [200] in 8367ms
+2020-06-26T08:11:34.8401509+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: GET https localhost:44321/api/v1/AiteaNotify   Responded with [405] in 117ms
+2020-06-26T08:11:34.9758346+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: GET https localhost:44321/favicon.ico   Responded with [404] in 18ms
+2020-06-26T08:11:51.4450890+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: GET https localhost:44321/api/v1/AiteaNotify   Responded with [405] in 11ms
+2020-06-26T08:21:47.0472397+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: GET https localhost:44321/api/v1/AiteaNotify   Responded with [405] in 15ms
+2020-06-26T08:21:47.2522742+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: GET https localhost:44321/favicon.ico   Responded with [404] in 4ms
+2020-06-26T08:30:29.6154194+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:44321/api/v1/AiteaNotify  {
+  "status": "1",
+  "pay_type": "801114",
+  "sysdtm": "2020-06-25 21:05:35",
+  "paydtm": "2020-06-25 21:06:50",
+  "goods_name": "",
+  "txcurrcd": "MYR",
+  "txdtm": "2020-06-25 21:05:33",
+  "mchid": "Jx2VxUL8JY",
+  "txamt": "110",
+  "out_trade_no": "TEST1008",
+  "syssn": "20200625141100020000888828",
+  "cancel": "0",
+  "respcd": "0000",
+  "goods_info": "",
+  "notify_type": "payment",
+  "chnlsn": "274142371",
+  "cardcd": ""
+}
+ Responded with [200] in 5911ms
+2020-06-26T08:58:03.5007892+08:00 [INF] (PaymentGateway.Program) Starting web host
+2020-06-26T09:00:01.7909292+08:00 [INF] (PaymentGateway.Program) Starting web host
+2020-06-26T09:00:16.1446657+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: GET https localhost:44321/api/v1/AiteaNotify   Responded with [405] in 345ms
+2020-06-26T09:00:17.8918109+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: GET https localhost:44321/favicon.ico   Responded with [404] in 10ms
+2020-06-26T09:00:48.9802015+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: GET https localhost:44321/api/v1/AiteaNotify   Responded with [405] in 4ms
+2020-06-26T09:00:49.1665554+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:44321/api/v1/AiteaNotify  {
+  "status": "1",
+  "pay_type": "801114",
+  "sysdtm": "2020-06-25 21:05:35",
+  "paydtm": "2020-06-25 21:06:50",
+  "goods_name": "",
+  "txcurrcd": "MYR",
+  "txdtm": "2020-06-25 21:05:33",
+  "mchid": "Jx2VxUL8JY",
+  "txamt": "110",
+  "out_trade_no": "TEST1008",
+  "syssn": "20200625141100020000888828",
+  "cancel": "0",
+  "respcd": "0000",
+  "goods_info": "",
+  "notify_type": "payment",
+  "chnlsn": "274142371",
+  "cardcd": ""
+}
+ Responded with [200] in 19836ms
+2020-06-26T09:01:09.1722131+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: GET https localhost:44321/api/v1/AiteaNotify   Responded with [405] in 4ms
+2020-06-26T09:01:53.7278092+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: GET https localhost:44321/api/v1/AiteaNotify   Responded with [405] in 4ms
+2020-06-26T09:01:59.8268638+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: GET https localhost:44321/   Responded with [404] in 3ms
+2020-06-26T09:02:05.9962953+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: GET https localhost:44321/api/v1/AiteaNotify   Responded with [405] in 4ms
+2020-06-26T09:02:07.1246469+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: GET https localhost:44321/api/v1/AiteaNotify   Responded with [405] in 3ms
+2020-06-26T09:02:09.5096076+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: GET https localhost:44321/api/v1/AiteaNotify   Responded with [405] in 8ms
+2020-06-26T09:07:07.1732267+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: GET https localhost:44321/api/v1/AiteaNotify   Responded with [405] in 9ms
+2020-06-26T09:08:13.8358753+08:00 [INF] (PaymentGateway.API.v1.PaymentController) Hashing input: goods_name=string&mchid=Jx2VxUL8JY&out_trade_no=TEST1010&pay_type=800214&txamt=11000&txcurrcd=MYR&txdtm=2020-06-26 09:08:1371****************************2C, key: 71****************************2C
+2020-06-26T09:08:13.8408692+08:00 [INF] (PaymentGateway.Services.QfPayApiConnect) Post Form request. URL /trade/v1/payment, data: {"txamt":"11000","txcurrcd":"MYR","pay_type":"800214","out_trade_no":"TEST1010","txdtm":"2020-06-26 09:08:13","goods_name":"string","mchid":"Jx2VxUL8JY"}
+2020-06-26T09:08:16.2010228+08:00 [INF] (PaymentGateway.Services.QfPayApiConnect) Post Form response: "{\"qrcode\": \"weixin://wxpay/bizpayurl?pr=5XtRc7w\", \"pay_type\": \"800214\", \"resperr\": \"success\", \"txdtm\": \"2020-06-26 09:08:13\", \"out_trade_no\": \"TEST1010\", \"syssn\": \"20200626141100020000888925\", \"sysdtm\": \"2020-06-26 09:08:16\", \"paydtm\": \"2020-06-26 09:08:16\", \"txcurrcd\": \"MYR\", \"respmsg\": \"\", \"pay_url\": \"\", \"cardcd\": \"\", \"udid\": \"qiantai2\", \"txamt\": \"11000\", \"respcd\": \"0000\", \"chnlsn\": \"274361643\"}"
+2020-06-26T09:08:16.2015659+08:00 [INF] (PaymentGateway.API.v1.PaymentController) Response from QFPayApi Request Payment
+2020-06-26T09:08:16.2172750+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:44321/api/v1/Payment  {"amount":110,"currency":"MYR","paymentType":"wechatonline","transactionNumber":"TEST1010","goodsName":"string"} Responded with [200] in 2559ms
+2020-06-26T09:09:22.5822441+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:44321/api/v1/AiteaNotify  {"status": "1", "pay_type": "800108", "sysdtm": "2020-06-26 09:09:20", "paydtm": "2020-06-26 09:09:22", "goods_name": "", "txcurrcd": "MYR", "txdtm": "2020-06-26 09:09:18", "mchid": "lkrbkclxAY", "txamt": "2000", "out_trade_no": "", "syssn": "20200626141200020000888646", "cancel": "0", "respcd": "0000", "goods_info": "", "notify_type": "payment", "chnlsn": "2020062622001470461413702392", "cardcd": "2088422877470465"} Responded with [200] in 10ms
+2020-06-26T09:17:13.0396004+08:00 [INF] (PaymentGateway.API.v1.PaymentController) Hashing input: goods_name=string&mchid=Jx2VxUL8JY&out_trade_no=TEST1011&pay_type=800214&txamt=11000&txcurrcd=MYR&txdtm=2020-06-26 09:17:1371****************************2C, key: 71****************************2C
+2020-06-26T09:17:13.0401708+08:00 [INF] (PaymentGateway.Services.QfPayApiConnect) Post Form request. URL /trade/v1/payment, data: {"txamt":"11000","txcurrcd":"MYR","pay_type":"800214","out_trade_no":"TEST1011","txdtm":"2020-06-26 09:17:13","goods_name":"string","mchid":"Jx2VxUL8JY"}
+2020-06-26T09:17:14.3043660+08:00 [INF] (PaymentGateway.Services.QfPayApiConnect) Post Form response: "{\"qrcode\": \"weixin://wxpay/bizpayurl?pr=9hGUhuz\", \"pay_type\": \"800214\", \"resperr\": \"success\", \"txdtm\": \"2020-06-26 09:17:13\", \"out_trade_no\": \"TEST1011\", \"syssn\": \"20200626141100020000888927\", \"sysdtm\": \"2020-06-26 09:17:14\", \"paydtm\": \"2020-06-26 09:17:14\", \"txcurrcd\": \"MYR\", \"respmsg\": \"\", \"pay_url\": \"\", \"cardcd\": \"\", \"udid\": \"qiantai2\", \"txamt\": \"11000\", \"respcd\": \"0000\", \"chnlsn\": \"274366383\"}"
+2020-06-26T09:17:14.3050981+08:00 [INF] (PaymentGateway.API.v1.PaymentController) Response from QFPayApi Request Payment
+2020-06-26T09:17:14.3114783+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:44321/api/v1/Payment  {"amount":110,"currency":"MYR","paymentType":"wechatonline","transactionNumber":"TEST1011","goodsName":"string"} Responded with [200] in 1293ms
+2020-06-26T09:19:08.2832195+08:00 [INF] (PaymentGateway.API.v1.PaymentController) Hashing input: goods_name=string&mchid=Jx2VxUL8JY&out_trade_no=TEST1012&pay_type=800214&txamt=110&txcurrcd=MYR&txdtm=2020-06-26 09:19:0871****************************2C, key: 71****************************2C
+2020-06-26T09:19:08.2840443+08:00 [INF] (PaymentGateway.Services.QfPayApiConnect) Post Form request. URL /trade/v1/payment, data: {"txamt":"110","txcurrcd":"MYR","pay_type":"800214","out_trade_no":"TEST1012","txdtm":"2020-06-26 09:19:08","goods_name":"string","mchid":"Jx2VxUL8JY"}
+2020-06-26T09:19:09.0934579+08:00 [INF] (PaymentGateway.Services.QfPayApiConnect) Post Form response: "{\"qrcode\": \"weixin://wxpay/bizpayurl?pr=PPgjW8W\", \"pay_type\": \"800214\", \"resperr\": \"success\", \"txdtm\": \"2020-06-26 09:19:08\", \"out_trade_no\": \"TEST1012\", \"syssn\": \"20200626141200020000888648\", \"sysdtm\": \"2020-06-26 09:19:09\", \"paydtm\": \"2020-06-26 09:19:09\", \"txcurrcd\": \"MYR\", \"respmsg\": \"\", \"pay_url\": \"\", \"cardcd\": \"\", \"udid\": \"qiantai2\", \"txamt\": \"110\", \"respcd\": \"0000\", \"chnlsn\": \"274367461\"}"
+2020-06-26T09:19:09.0940212+08:00 [INF] (PaymentGateway.API.v1.PaymentController) Response from QFPayApi Request Payment
+2020-06-26T09:19:09.0978132+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:44321/api/v1/Payment  {"amount":1.1,"currency":"MYR","paymentType":"wechatonline","transactionNumber":"TEST1012","goodsName":"string"} Responded with [200] in 837ms
+2020-06-26T09:20:06.3729808+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:44321/api/v1/AiteaNotify  {"status": "1", "pay_type": "800214", "sysdtm": "2020-06-26 09:19:09", "paydtm": "2020-06-26 09:20:06", "goods_name": "", "txcurrcd": "MYR", "txdtm": "2020-06-26 09:19:08", "mchid": "Jx2VxUL8JY", "txamt": "110", "out_trade_no": "TEST1012", "syssn": "20200626141200020000888648", "cancel": "0", "respcd": "0000", "goods_info": "", "notify_type": "payment", "chnlsn": "274367461", "cardcd": ""} Responded with [200] in 10ms
+2020-06-26T09:26:04.9252924+08:00 [INF] (PaymentGateway.API.v1.PaymentController) Hashing input: mchid=Jx2VxUL8JY&out_trade_no=TEST1013&syssn=20200626141200020000888648&txamt=11000&txdtm=2020-06-26 09:26:0471****************************2C, key: 71****************************2C
+2020-06-26T09:26:04.9266314+08:00 [INF] (PaymentGateway.Services.QfPayApiConnect) Post Form request. URL /trade/v1/refund, data: {"syssn":"20200626141200020000888648","out_trade_no":"TEST1013","txamt":"11000","txdtm":"2020-06-26 09:26:04","mchid":"Jx2VxUL8JY"}
+2020-06-26T09:26:06.3607552+08:00 [INF] (PaymentGateway.Services.QfPayApiConnect) Post Form response: "{\"resperr\": \"\\u672a\\u77e5\\u9519\\u8bef\\uff0c\\u8bf7\\u7a0d\\u540e\\u518d\\u8bd5\", \"respcd\": \"1272\", \"respmsg\": \"\\u8be5\\u9000\\u6b3e\\u91d1\\u989d\\u5927\\u4e8e\\u539f\\u4ea4\\u6613\\u53ef\\u9000\\u6b3e\\u7684\\u6700\\u5927\\u91d1\\u989d\", \"out_trade_no\": \"TEST1013\", \"orig_syssn\": \"20200626141200020000888648\"}"
+2020-06-26T09:26:06.3611423+08:00 [INF] (PaymentGateway.API.v1.PaymentController) Response from QFPayApi Cancel Payment
+2020-06-26T09:26:06.3658682+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:44321/api/v1/Payment/Cancel  {"amount":110,"currency":"MYR","paymentType":"wechatonline","transactionNumber":"TEST1013","pgTransactionNumber":"20200626141200020000888648","goodsName":"string"} Responded with [200] in 1484ms
+2020-06-26T09:26:43.3610951+08:00 [INF] (PaymentGateway.API.v1.PaymentController) Hashing input: mchid=Jx2VxUL8JY&out_trade_no=TEST1013&syssn=20200626141200020000888648&txamt=110&txdtm=2020-06-26 09:26:4371****************************2C, key: 71****************************2C
+2020-06-26T09:26:43.3617981+08:00 [INF] (PaymentGateway.Services.QfPayApiConnect) Post Form request. URL /trade/v1/refund, data: {"syssn":"20200626141200020000888648","out_trade_no":"TEST1013","txamt":"110","txdtm":"2020-06-26 09:26:43","mchid":"Jx2VxUL8JY"}
+2020-06-26T09:26:45.8402321+08:00 [INF] (PaymentGateway.Services.QfPayApiConnect) Post Form response: "{\"sysdtm\": \"2020-06-26 09:26:44\", \"paydtm\": \"2020-06-26 09:26:46\", \"udid\": \"qiantai2\", \"txcurrcd\": \"MYR\", \"txdtm\": \"2020-06-26 09:26:43\", \"txamt\": \"110\", \"resperr\": \"success\", \"respmsg\": \"\", \"out_trade_no\": \"TEST1013\", \"syssn\": \"20200626141200020000888650\", \"orig_syssn\": \"20200626141200020000888648\", \"respcd\": \"0000\", \"chnlsn\": \"274367461\", \"cardcd\": \"\"}"
+2020-06-26T09:26:45.8407101+08:00 [INF] (PaymentGateway.API.v1.PaymentController) Response from QFPayApi Cancel Payment
+2020-06-26T09:26:45.8431875+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:44321/api/v1/Payment/Cancel  {"amount":1.1,"currency":"MYR","paymentType":"wechatonline","transactionNumber":"TEST1013","pgTransactionNumber":"20200626141200020000888648","goodsName":"string"} Responded with [200] in 2495ms
+2020-06-26T09:26:46.7770669+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:44321/api/v1/AiteaNotify  {"sysdtm": "2020-06-26 09:26:44", "txcurrcd": "MYR", "orig_out_trade_no": "TEST1012", "mchid": "Jx2VxUL8JY", "txdtm": "2020-06-26 09:26:43", "txamt": "110", "orig_syssn": "20200626141200020000888648", "out_trade_no": "TEST1013", "syssn": "20200626141200020000888650", "respcd": "0000", "notify_type": "refund"} Responded with [200] in 6ms
+2020-06-26T09:55:30.9866065+08:00 [INF] (PaymentGateway.Program) Starting web host
+2020-06-26T10:13:14.1156646+08:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: GET https localhost:44321/favicon.ico   Responded with [404] in 450ms

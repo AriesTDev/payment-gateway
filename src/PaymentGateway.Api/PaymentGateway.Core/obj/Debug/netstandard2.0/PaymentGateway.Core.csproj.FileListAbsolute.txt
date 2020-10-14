@@ -1,0 +1,9 @@
+D:\AriesTDev\payment-gateway\src\PaymentGateway.Api\PaymentGateway.Core\bin\Debug\netstandard2.0\PaymentGateway.Core.deps.json
+D:\AriesTDev\payment-gateway\src\PaymentGateway.Api\PaymentGateway.Core\bin\Debug\netstandard2.0\PaymentGateway.Core.dll
+D:\AriesTDev\payment-gateway\src\PaymentGateway.Api\PaymentGateway.Core\bin\Debug\netstandard2.0\PaymentGateway.Core.pdb
+D:\AriesTDev\payment-gateway\src\PaymentGateway.Api\PaymentGateway.Core\obj\Debug\netstandard2.0\PaymentGateway.Core.csprojAssemblyReference.cache
+D:\AriesTDev\payment-gateway\src\PaymentGateway.Api\PaymentGateway.Core\obj\Debug\netstandard2.0\PaymentGateway.Core.AssemblyInfoInputs.cache
+D:\AriesTDev\payment-gateway\src\PaymentGateway.Api\PaymentGateway.Core\obj\Debug\netstandard2.0\PaymentGateway.Core.AssemblyInfo.cs
+D:\AriesTDev\payment-gateway\src\PaymentGateway.Api\PaymentGateway.Core\obj\Debug\netstandard2.0\PaymentGateway.Core.csproj.CoreCompileInputs.cache
+D:\AriesTDev\payment-gateway\src\PaymentGateway.Api\PaymentGateway.Core\obj\Debug\netstandard2.0\PaymentGateway.Core.dll
+D:\AriesTDev\payment-gateway\src\PaymentGateway.Api\PaymentGateway.Core\obj\Debug\netstandard2.0\PaymentGateway.Core.pdb
